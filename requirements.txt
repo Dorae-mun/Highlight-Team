@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+faiss-cpu
+sentence-transformers
+numpy
+requests
+torch
